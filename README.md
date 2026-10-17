@@ -39,6 +39,34 @@ Technokod — разработка сайтов, Telegram-ботов и авто
 
 Состав, интеграции, сроки и стоимость согласуются по задаче. Примеры показывают конкретные функции и границы проверки; дополнительные подключения не подразумеваются автоматически.
 
+### Услуги и стартовые цены
+
+ИП Technokod: сайты, Telegram-боты и CRM под рабочие процессы бизнеса в Казахстане.
+
+- [Разработка сайта — от 250 000 ₸](https://technokod.kz/services/razrabotka-saitov?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+- [Telegram-бот — от 150 000 ₸](https://technokod.kz/services/telegram-bot?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+- [Своя CRM — стоимость после разбора процесса и интеграций](https://technokod.kz/services/razrabotka-crm?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+
+Языковые версии RU/KK, AI, платежи и интеграции согласуются по объёму. Стартовая цена не является сметой любого набора функций. Хостинг и внешние сервисы оплачиваются отдельно; сроки и итоговую стоимость фиксируем в договоре.
+
+**Собственный паспорт WhatsApp→CRM:** 17 изолированных сценариев PostgreSQL/API, 6 синтетических карточек, 0 внешних сообщений. Проверены сохранение источника, услуги и итога, повторы и защита от устаревших изменений. Настоящее сообщение с телефона клиента и ответ владельца в этом цикле не испытывались.
+
+[Процесс и границы собственной проверки](https://technokod.kz/cases/technokod-admin?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices#workflow).
+
+### Қызметтер және бастапқы бағалар
+
+Technokod ЖК: Қазақстан бизнесінің жұмыс процестеріне арналған сайттар, Telegram-боттар және CRM.
+
+- [Сайт әзірлеу — 250 000 ₸-ден](https://technokod.kz/kk/services/razrabotka-saitov?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+- [Telegram-бот — 150 000 ₸-ден](https://technokod.kz/kk/services/telegram-bot?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+- [Жеке CRM — баға процесс пен интеграцияларды талдағаннан кейін анықталады](https://technokod.kz/kk/services/razrabotka-crm?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+
+RU/KK тілдік нұсқалары, ЖИ, төлем және интеграциялар көлемге сай келісіледі. Бастапқы баға кез келген функциялар жиынтығының толық сметасы емес. Хостинг пен сыртқы сервистер бөлек төленеді; мерзім мен қорытынды баға шартта бекітіледі.
+
+**WhatsApp→CRM бойынша өз тексеру паспортымыз:** PostgreSQL/API ортасындағы 17 оқшауланған сценарий, 6 жасанды карточка, 0 сыртқы хабарлама. Дереккөзді, қызметті және нәтижені сақтау, қайталанған оқиғалар және ескірген өзгерістерден қорғау тексерілген. Клиент телефонынан нақты хабарлама және иесінің жауабы бұл циклде сыналған жоқ.
+
+[Өз тексеруіміздің процесі мен шектері](https://technokod.kz/cases/technokod-admin?lang=kk&utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices#workflow).
+
 **Разборы систем со скриншотами / Скриншоттары бар жүйе талдаулары:**
 
 - [Библиотечные платформы: каталог, события и AI-помощник](https://github.com/m34959203/m34959203/blob/main/technokod-cases/library-platform.md) — Кітапхана платформалары: каталог, іс-шаралар және AI-көмекші.
