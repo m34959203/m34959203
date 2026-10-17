@@ -29,6 +29,16 @@ Technokod — разработка сайтов, Telegram-ботов и авто
 
 [Услуги](https://technokod.kz/services?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=profile) · [Обсудить проект](https://technokod.kz/contact?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=profile#contact) · [WhatsApp](https://wa.me/77754905562) · [info@technokod.kz](mailto:info@technokod.kz)
 
+**Заказать решение под задачу / Міндетке сай шешім:**
+
+| Задача / Міндет | Услуга / Қызмет | Пример / Мысал |
+| --- | --- | --- |
+| Сайт RU/KK с обращениями / Өтінім қабылдайтын RU/KK сайт | [Разработка сайтов](https://technokod.kz/services/razrabotka-saitov?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round2-20261017&utm_content=profile-service) · [Қазақша](https://technokod.kz/kk/services/razrabotka-saitov) | [Библиотечные платформы / Кітапхана платформалары](technokod-cases/library-platform.md) |
+| Telegram и AI по документам / Telegram және құжаттарға сүйенетін ЖИ | [Telegram-бот](https://technokod.kz/services/telegram-bot?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round2-20261017&utm_content=profile-service) · [Қазақша](https://technokod.kz/kk/services/telegram-bot) | [Бот приёмной комиссии / Қабылдау комиссиясының боты](technokod-cases/admissions-bot.md) |
+| Учёт сервисной работы / Сервистік жұмысты есепке алу | [Разработка CRM](https://technokod.kz/services/razrabotka-crm?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round2-20261017&utm_content=profile-service) · [Қазақша](https://technokod.kz/kk/services/razrabotka-crm) | [Заявка, наряд и акт / Өтінім, жұмыс тапсырмасы және акт](technokod-cases/crm-workflow.md) |
+
+Состав, интеграции, сроки и стоимость согласуются по задаче. Примеры показывают конкретные функции и границы проверки; дополнительные подключения не подразумеваются автоматически.
+
 **Разборы систем со скриншотами / Скриншоттары бар жүйе талдаулары:**
 
 - [Библиотечные платформы: каталог, события и AI-помощник](https://github.com/m34959203/m34959203/blob/main/technokod-cases/library-platform.md) — Кітапхана платформалары: каталог, іс-шаралар және AI-көмекші.
