@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://technokod.kz"><img src="https://img.shields.io/badge/TechnoKod-technokod.kz-C6F24E?style=flat-square&labelColor=111111"></a>
+  <a href="https://technokod.kz"><img src="https://img.shields.io/badge/TechnoKod-technokod.kz-69BFFF?style=flat-square&labelColor=111111"></a>
   <a href="https://portfolio.technokod.kz"><img src="https://img.shields.io/badge/Портфолио-live-111111?style=flat-square"></a>
   <img src="https://img.shields.io/badge/RU%20·%20KK%20·%20EN-2b2b2b?style=flat-square">
 </p>
@@ -20,6 +20,32 @@
 
 ---
 
+<!-- technokod-company-profile:start -->
+## Technokod / Технокод — сайты, боты, CRM и AI в Казахстане
+
+Technokod — разработка сайтов, Telegram-ботов и автоматизации в Казахстане. Связываем обращения, CRM, документы и публикации; добавляем AI-помощников по материалам организации. Проект ведёт Дмитрий Миронов, Жезказган. Примеры и границы проверок: technokod.kz/cases.
+
+Для бизнеса и организаций: сайты на русском и казахском, редакционные CMS, Telegram-боты, учёт обращений, автоматизация публикаций и AI по документам. Объём и интеграции определяем по задаче.
+
+[Услуги](https://technokod.kz/services?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=profile) · [Обсудить проект](https://technokod.kz/contact?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=profile#contact) · [WhatsApp](https://wa.me/77754905562) · [info@technokod.kz](mailto:info@technokod.kz)
+
+**Разборы систем со скриншотами / Скриншоттары бар жүйе талдаулары:**
+
+- [Библиотечные платформы: каталог, события и AI-помощник](https://github.com/m34959203/m34959203/blob/main/technokod-cases/library-platform.md) — Кітапхана платформалары: каталог, іс-шаралар және AI-көмекші.
+- [Telegram-бот приёмной комиссии: документы и путь абитуриента](https://github.com/m34959203/m34959203/blob/main/technokod-cases/admissions-bot.md) — Қабылдау комиссиясының Telegram-боты: құжаттар және талапкер жолы.
+- [Новостные порталы: работа редакции и языковые версии](https://github.com/m34959203/m34959203/blob/main/technokod-cases/news-editorial.md) — Жаңалықтар порталдары: редакция жұмысы және тілдік нұсқалар.
+- [CRM сервисной компании: заявка, исполнитель и акт](https://github.com/m34959203/m34959203/blob/main/technokod-cases/crm-workflow.md) — Сервистік компанияның CRM жүйесі: өтінім, орындаушы және акт.
+- [Локальный AI: модель, документы и проверка изоляции](https://github.com/m34959203/m34959203/blob/main/technokod-cases/private-ai.md) — Жергілікті AI: модель, құжаттар және оқшаулауды тексеру.
+
+**Қазақша.** Technokod Қазақстанда сайттар, Telegram-боттар және автоматтандыру жүйелерін әзірлейді. Өтінімдерді, CRM, құжаттар мен жарияланымдарды байланыстырып, ұйым материалдарына сүйенетін ЖИ-көмекшілерін жасаймыз. Жобаны Жезқазғанда Дмитрий Миронов жүргізеді. Мысалдар мен тексеру шектері: technokod.kz/cases?lang=kk.
+
+[Қызметтер](https://technokod.kz/kk/services?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=profile) · [Жобаны талқылау](https://technokod.kz/kk/contact?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=profile#contact) · [Қазақша кейстер](https://technokod.kz/cases?lang=kk)
+
+В материалах отдельно обозначены публичные рабочие интерфейсы, тестовые записи CRM и технические предпросмотры. Код и данные закрытых проектов здесь не публикуются.
+<!-- technokod-company-profile:end -->
+
+---
+
 ## В проде
 
 | Проект | Что это | Стек |
@@ -27,10 +53,9 @@
 | **[Telematics Data Gateway](https://tdg.technokod.kz)** | Мультитенантный шлюз-ретранслятор телематики: приём device-протоколов с терминалов, нормализация, транскодинг, раздача потребителям | TypeScript · TCP/UDP · Postgres · Docker |
 | **[Тіл-құрал](https://til-qural.kz)** | Платформа изучения казахского языка с ИИ-учителем и геймификацией | Next.js 16 · Postgres · LLM |
 | **[Smart Library ЦБС](https://satlib.kz)** | Экосистема централизованной библиотечной системы: билингвальный каталог, AI-помощник, бронирование | Next.js · Postgres · Groq · TTS |
-| **[Детская библиотека Сатпаев](https://dubsatpaev.kz)** | Каталог, генератор сказок, голосовой диалог, автопостинг | Next.js 16 · Postgres · Gemini |
+| **[Детская библиотека Сатпаев](https://dubsatpaev.kz)** | Каталог, генератор сказок, голосовой диалог, модули автопубликации; подключения проверяются отдельно | Next.js 16 · Postgres · Gemini |
 | **[Вестник ЖезУ](https://vestnik.zhezu.kz)** | Сайт научного журнала: OJS 3.4 + собственный фронт, требования ККСОН МОН РК | Next.js · OJS REST · Vertex AI |
-| **[Расчёт учебной нагрузки](https://loadcalc.zhezu.kz)** | Автоматизация распределения нагрузки кафедр: учебный план → решатель → выгрузка | Python · OR-Tools CP-SAT |
-| **[TechnoKod](https://technokod.kz)** | Платформа агентства: CMS, блог, автопостинг, контроль расхода AI-бюджета | Next.js 16 · Prisma · Postgres |
+| **[TechnoKod](https://technokod.kz)** | Платформа агентства: CMS, блог, модули автопубликации, контроль расхода AI-бюджета; каналы подключаются отдельно | Next.js 16 · Prisma · Postgres |
 
 Ещё около двадцати систем — CRM, биллинг для медицинской ИС, омниканальный контакт-центр, боты, генераторы отчётов — под NDA или во внутреннем контуре заказчиков.
 
