@@ -34,16 +34,21 @@ Technokod — разработка сайтов, Telegram-ботов и авто
 | Задача / Міндет | Услуга / Қызмет | Пример / Мысал |
 | --- | --- | --- |
 | Сайт RU/KK с обращениями / Өтінім қабылдайтын RU/KK сайт | [Разработка сайтов](https://technokod.kz/services/razrabotka-saitov?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round2-20261017&utm_content=profile-service) · [Қазақша](https://technokod.kz/kk/services/razrabotka-saitov) | [Библиотечные платформы / Кітапхана платформалары](technokod-cases/library-platform.md) |
-| Telegram и AI по документам / Telegram және құжаттарға сүйенетін ЖИ | [Telegram-бот](https://technokod.kz/services/telegram-bot?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round2-20261017&utm_content=profile-service) · [Қазақша](https://technokod.kz/kk/services/telegram-bot) | [Бот приёмной комиссии / Қабылдау комиссиясының боты](technokod-cases/admissions-bot.md) |
+| Telegram и AI по документам / Telegram және құжаттарға сүйенетін ЖИ | [Telegram-бот](https://technokod.kz/services/telegram-bot?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round2-20261017&utm_content=profile-service) · [Қазақша](https://technokod.kz/kk/services/telegram-bot) | [Бот: анкета и PDF / Бот: сауалнама және PDF](https://technokod.kz/cases/telegram-pdf-bot) |
 | Учёт сервисной работы / Сервистік жұмысты есепке алу | [Разработка CRM](https://technokod.kz/services/razrabotka-crm?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round2-20261017&utm_content=profile-service) · [Қазақша](https://technokod.kz/kk/services/razrabotka-crm) | [Заявка, наряд и акт / Өтінім, жұмыс тапсырмасы және акт](technokod-cases/crm-workflow.md) |
 
 Состав, интеграции, сроки и стоимость согласуются по задаче. Примеры показывают конкретные функции и границы проверки; дополнительные подключения не подразумеваются автоматически.
+
+### Сайт с AI, WhatsApp и CRM
+
+Для компании, которой нужен AI-консультант на сайте и учёт обращений, согласуем материалы RU/KK, поля заявки, способ подключения WhatsApp, CRM и действия сотрудника. [Что проверить при приёмке и какие ограничения есть в собственной системе](technokod-cases/crm-workflow.md). Находимся в Жезказгане, работаем по Казахстану удалённо; отдельные офисы в других городах не заявляем.
 
 ### Услуги и стартовые цены
 
 ИП Technokod: сайты, Telegram-боты и CRM под рабочие процессы бизнеса в Казахстане.
 
 - [Разработка сайта — от 250 000 ₸](https://technokod.kz/services/razrabotka-saitov?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+- [Сайт с AI-помощником — от 350 000 ₸](https://technokod.kz/services/ai-sayt)
 - [Telegram-бот — от 150 000 ₸](https://technokod.kz/services/telegram-bot?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
 - [Своя CRM — стоимость после разбора процесса и интеграций](https://technokod.kz/services/razrabotka-crm?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
 
@@ -58,6 +63,7 @@ Technokod — разработка сайтов, Telegram-ботов и авто
 Technokod ЖК: Қазақстан бизнесінің жұмыс процестеріне арналған сайттар, Telegram-боттар және CRM.
 
 - [Сайт әзірлеу — 250 000 ₸-ден](https://technokod.kz/kk/services/razrabotka-saitov?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
+- [ЖИ-көмекшісі бар сайт — 350 000 ₸-ден](https://technokod.kz/kk/services/ai-sayt)
 - [Telegram-бот — 150 000 ₸-ден](https://technokod.kz/kk/services/telegram-bot?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
 - [Жеке CRM — баға процесс пен интеграцияларды талдағаннан кейін анықталады](https://technokod.kz/kk/services/razrabotka-crm?utm_source=github&utm_medium=referral&utm_campaign=external-evidence-round3-20261017&utm_content=readme-prices)
 
@@ -70,7 +76,7 @@ RU/KK тілдік нұсқалары, ЖИ, төлем және интегра�
 **Разборы систем со скриншотами / Скриншоттары бар жүйе талдаулары:**
 
 - [Библиотечные платформы: каталог, события и AI-помощник](https://github.com/m34959203/m34959203/blob/main/technokod-cases/library-platform.md) — Кітапхана платформалары: каталог, іс-шаралар және AI-көмекші.
-- [Telegram-бот приёмной комиссии: документы и путь абитуриента](https://github.com/m34959203/m34959203/blob/main/technokod-cases/admissions-bot.md) — Қабылдау комиссиясының Telegram-боты: құжаттар және талапкер жолы.
+- [Telegram-бот: анкета, расчёт по правилам и PDF](https://technokod.kz/cases/telegram-pdf-bot) — Сауалнама, берілген ережелермен есептеу және PDF.
 - [Новостные порталы: работа редакции и языковые версии](https://github.com/m34959203/m34959203/blob/main/technokod-cases/news-editorial.md) — Жаңалықтар порталдары: редакция жұмысы және тілдік нұсқалар.
 - [CRM сервисной компании: заявка, исполнитель и акт](https://github.com/m34959203/m34959203/blob/main/technokod-cases/crm-workflow.md) — Сервистік компанияның CRM жүйесі: өтінім, орындаушы және акт.
 - [Локальный AI: модель, документы и проверка изоляции](https://github.com/m34959203/m34959203/blob/main/technokod-cases/private-ai.md) — Жергілікті AI: модель, құжаттар және оқшаулауды тексеру.
