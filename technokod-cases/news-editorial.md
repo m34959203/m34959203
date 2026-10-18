@@ -105,3 +105,9 @@ ULYTAU INSIDE қалай құрылған: екі тілдегі жаңалық�
 [Обсудить похожую задачу с Technokod](https://technokod.kz/contact?service=ai-cms&utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=news-editorial#contact) · [Ұқсас міндетті талқылау](https://technokod.kz/kk/contact?service=ai-cms&utm_source=github&utm_medium=referral&utm_campaign=external-evidence-20261017&utm_content=news-editorial#contact) · [WhatsApp](https://wa.me/77754905562) · [info@technokod.kz](mailto:info@technokod.kz)
 
 Источник материала — опубликованные разборы Technokod. Иллюстрации взяты из этих разборов с исходными подписями; тип каждого экрана указан рядом с изображением.
+
+## Дополнительный разбор процесса / Жұмыс барысының қосымша талдауы
+
+[Обезличенный разбор редакционного процесса в Astana Hub](https://astanahub.com/ru/blog/novostnoi-portal-kak-sviazat-sait-i-rabotu-redaktsii?utm_source=github&utm_medium=referral&utm_campaign=news-evidence-20261018): роли автора и редактора, публикация по расписанию и защита параллельных правок. Иллюстрация редактора — публичный демонстрационный шаблон с тестовым содержимым; это не закрытая CMS заказчика. Материал опубликован Technokod и не является независимым отзывом или новым испытанием системы.
+
+[Astana Hub-тағы редакция жұмысының жасырын деректерсіз талдауы](https://astanahub.com/ru/blog/novostnoi-portal-kak-sviazat-sait-i-rabotu-redaktsii?utm_source=github&utm_medium=referral&utm_campaign=news-evidence-20261018): автор мен редактор рөлдері, кесте бойынша жариялау және қатар енгізілетін түзетулерді қорғау. Редактор иллюстрациясы — сынақ мазмұны бар ашық демонстрациялық үлгі, тапсырыс берушінің жабық CMS жүйесі емес. Бұл — Technokod-тың авторлық материалы, тәуелсіз пікір немесе жүйенің жаңа сынағы емес.
